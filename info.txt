@@ -1,0 +1,9 @@
+https://mvnrepository.com/
+https://mvnrepository.com/artifact/org.testng/testng/6.14.3
+https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/3.141.59
+
+
+
+https://git-scm.com/downloads
+https://brew.sh/
+https://www.jetbrains.com/idea/download/
